@@ -18,4 +18,4 @@ Por meio desse projeto iniciei minha jornada no desenvolvimento em Java. Por mei
 Noções básicas de lógica de programação e Java.
 
 ## Link do repositório do GitHub:
-https://github.com/caluoliveira/Curriculo-em-HTML-Vers-o-1
+https://github.com/caluoliveira/Calculadora-Windows-em-Java
